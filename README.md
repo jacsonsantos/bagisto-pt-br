@@ -1,2 +1,2 @@
-# bagisto-pt-br
-Bagisto PT-BR
+# Bagisto em PT-BR
+Codigo pendente [...]
